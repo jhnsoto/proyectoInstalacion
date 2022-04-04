@@ -4,8 +4,8 @@ function setup() {
 }
 
 function draw() {
-  background(220);
   loadPixels();
+  background(220);
   for(var y = 0; y<height;y++){
     for(var x = 0; x<width;x++){
       var index = (x+ y*width)*4;
