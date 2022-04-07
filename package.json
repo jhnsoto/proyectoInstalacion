@@ -1,0 +1,22 @@
+{
+  "name": "proyectoinstalacion",
+  "version": "1.0.0",
+  "description": "Proyecto de instalacion",
+  "main": "p5.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnsoto/proyectoInstalacion.git"
+  },
+  "author": "jhnsoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhnsoto/proyectoInstalacion/issues"
+  },
+  "homepage": "https://github.com/jhnsoto/proyectoInstalacion#readme",
+  "dependencies": {
+    "firebase": "^9.6.10"
+  }
+}
